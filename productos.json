@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2,
+    "prenda": "Remera Regular",
+    "talle": "L",
+    "precio": 5500,
+    "imagen": "REMERA-REGULAR.webp"
+  },
+  {
+    "id": 3,
+    "prenda": "Camisa",
+    "talle": "L",
+    "precio": 4800,
+    "imagen": "camisa.webp"
+  },
+  {
+    "id": 4,
+    "prenda": "Pantalón Cargo",
+    "talle": "40",
+    "precio": 14000,
+    "imagen": "pantalon-cargo.webp"
+  },
+  {
+    "id": 5,
+    "prenda": "Pantalón Jogging",
+    "talle": "42",
+    "precio": 12500,
+    "imagen": "pantalón-joggin.webp"
+  },
+  {
+    "id": 6,
+    "prenda": "Pantalón Corto",
+    "talle": "40",
+    "precio": 8000,
+    "imagen": "pantalón-corto.webp"
+  },
+  {
+    "title": "Remera Manga Corta",
+    "price": 29.99,
+    "thumbnail": "ruta/remera.jpg",
+    "code": "ABC456",
+    "stock": 100,
+    "id": 7
+  },
+  {
+    "id": "1706393904706"
+  },
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "ABC123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ],
+    "id": "1706394020591"
+  }
+]
